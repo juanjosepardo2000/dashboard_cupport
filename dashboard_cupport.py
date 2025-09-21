@@ -11,7 +11,7 @@ from plotly.subplots import make_subplots
 
 # Configuración de la página para tablet
 st.set_page_config(
-    page_title="Sistema Integral de Gestión - SecureFleet Pro",
+    page_title="Dashboard de monitoreo recursos Cuport",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="collapsed"
